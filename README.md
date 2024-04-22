@@ -51,8 +51,8 @@ example.exe -done
 Provide a direct link to where users can download the application, ensuring the source is reliable and the process is straightforward.
 
 ---
-<p align="center"><a href="https://github.com/SegoCode/AutoWall/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SegoCode/AutoWall" />
+<p align="center"><a href="https://github.com/SegoCode/RepositoryTemplate/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SegoCode/RepositoryTemplate" />
 </a></p>
 
 <p align="center"><i>This project is under a non-commercial license please check the <a href="path/to/LICENSE">LICENSE</a> file for more information</i></p>
