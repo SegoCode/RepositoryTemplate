@@ -50,11 +50,11 @@ example.exe -done
 
 
 ---
-<p align="center">
-<a href="https://github.com/SegoCode/AutoWall/graphs/contributors">
+<p align="center"><a href="https://github.com/SegoCode/AutoWall/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SegoCode/AutoWall" />
-</a>
+</a></p>
+
+<p align="center"><i>This project is under a non-commercial license please check the LICENSE file for more information</i></p>
 
 
 
-*This project is under a non-commercial license please check the LICENSE file for more information*
