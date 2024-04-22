@@ -21,7 +21,7 @@ This section should provide a concise introduction to the application, explainin
 
 ### Quick Start
 
-Provide a simple, step-by-step guide on how to set up and start using the application immediately after installation.
+Provide a simple, step-by-step guide on how to set up and start using the application.
 
 > [!IMPORTANT]
 > Highlight critical information about the application setup or initial configuration that users must be aware of.
