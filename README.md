@@ -19,6 +19,16 @@
 
 [Step-by-step instructions on how to quickly get started using the application.]
 
+> [!IMPORTANT]\
+> Important
+
+> [!WARNING]\
+> Warning
+
+> [!NOTE]\
+> Note
+
+
 ### Available Parameters
 
 - `parameter1`: Description of what it does or how it affects the app.
