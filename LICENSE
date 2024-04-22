@@ -4,17 +4,17 @@ All rights reserved.
 Section 1 - Definitions
 
 	1.1 "NonCommercial" pertains to any use, distribution, or modification of the 
-        licensed material that does not primarily aim to achieve commercial 
-        advantage or generate monetary compensation. This includes, but is not 
-        limited to, activities such as distributing the licensed material as part 
-        of an application or product that is sold, using the licensed material in 
-        advertising, and creating products or services with the licensed material 
-        that are subsequently sold.
+		licensed material that does not primarily aim to achieve commercial 
+		advantage or generate monetary compensation. This includes, but is not 
+		limited to, activities such as distributing the licensed material as part 
+		of an application or product that is sold, using the licensed material in 
+		advertising, and creating products or services with the licensed material 
+		that are subsequently sold.
 
 	1.2 "Adapted Material" refers to any work derived from or based upon the licensed material.
-		 This includes translations, alterations, rearrangements, transformations, source code
-		 modifications, compiled code alterations, architectural redesigns, or the integration 
-		 of the licensed material into other software projects.
+		This includes translations, alterations, rearrangements, transformations, source code
+		modifications, compiled code alterations, architectural redesigns, or the integration 
+		of the licensed material into other software projects.
 
 	1.3 "NonAdapted Material" refers to exact copies of the licensed material, 
 		either in source code or binary form, which are reproduced without any changes, 
@@ -41,8 +41,8 @@ Section 2 - License Conditions
 		or an equivalent method, ensuring that users have the capability to access, review, and download the code.
 
 	2.6 For any NonAdapted Material that are offered on download sites, marketplaces, or software distribution platforms, 
-	    are permitted under the condition that any economic benefit derived from such distribution is strictly indirect, 
-	    including but not limited to advertisements or link redirectors. Direct sales or charges for access to the licensed material 
+		are permitted under the condition that any economic benefit derived from such distribution is strictly indirect, 
+		including but not limited to advertisements or link redirectors. Direct sales or charges for access to the licensed material 
 		are not permitted under this license. Upon the original author distributing the material on the same platform,
 		all alternative downloads and any associated revenue-generating mechanisms must be discontinued immediately.
 		Acceptance of this license constitutes agreement that the copyright holder may request the immediate cessation
@@ -50,25 +50,25 @@ Section 2 - License Conditions
 
 	2.4 Usage Restrictions and Obligations:
 	
-	    a. Attribution: All Adapted Material must clearly credit the original work and 
-		   author, including a link to the source repository, within any distributed 
-		   documentation or materials.
-	    
-	    b. No Software Bundling: Distributing the licensed material alongside unrelated
-	       or harmful software, such as adware, malware, or spyware, is prohibited.
+		a. Attribution: All Adapted Material must clearly credit the original work and 
+		  author, including a link to the source repository, within any distributed 
+		  documentation or materials.
+		
+		b. No Software Bundling: Distributing the licensed material alongside unrelated
+		   or harmful software, such as adware, malware, or spyware, is prohibited.
 
-	    c. No False Endorsements: Implying endorsement or association with the 
-	       original author or recognized entities without permission is prohibited.	
+		c. No False Endorsements: Implying endorsement or association with the 
+		   original author or recognized entities without permission is prohibited.	
 
 Section 3 - Updates and Revisions
 
 	3.1 The copyright holder retains the right to amend, update, or otherwise modify this
-	    license at any time without prior notice. Users should periodically review the license 
-	    terms to stay informed of any changes.
+		license at any time without prior notice. Users should periodically review the license 
+		terms to stay informed of any changes.
 
 	3.2 Continued use of the licensed material after such changes signifies acceptance of the 
-	    revised license terms. It is the user's responsibility to ensure ongoing compliance with 
-	    the most current version of the license.
+		revised license terms. It is the user's responsibility to ensure ongoing compliance with 
+		the most current version of the license.
     
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
