@@ -1,4 +1,4 @@
-# [App Name]
+# App Name
 
 ![Demo Image](path/to/demo-image.png)
 
@@ -6,7 +6,7 @@
 
 [Short description of the app including its purpose and what it solves. Add any additional context that helps people understand what and why.]
 
-## Notable Features
+## Features
 
 - Feature 1: [Description]
 - Feature 2: [Description]
