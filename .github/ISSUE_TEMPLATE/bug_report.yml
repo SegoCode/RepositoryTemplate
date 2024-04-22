@@ -48,6 +48,7 @@ body:
         - Windows 10
         - Windows 8
         - Windows 7
+        - Debian
         - Other
     validations:
       required: true
