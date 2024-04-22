@@ -31,9 +31,18 @@
 
 ### Available Parameters
 
-- `parameter1`: Description of what it does or how it affects the app.
-- `parameter2`: Description of what it does or how it affects the app.
-- Add more parameters as needed...
+Example 1
+```shell
+example.exe -help
+```
+*This return a help.*
+
+Example 2
+```shell
+example.exe -done
+```
+*This make it done.*
+
 
 ## Direct Download
 
