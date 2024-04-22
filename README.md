@@ -1,33 +1,36 @@
+
 # App Name
 
 ![Demo Image](path/to/demo-image.png)
 
 ## About
 
-[Short description of the app including its purpose and what it solves. Add any additional context that helps people understand what and why.]
+This section should provide a concise introduction to the application, explaining its primary function and the problem it addresses. Mention the target audience and any unique selling points that differentiate it from similar apps.
 
 ## Features
 
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
+- Feature 1: Describe the first key feature of the app. Explain how it benefits the user or improves upon existing solutions.
+
+- Feature 2: Describe the second key feature, focusing on its functionality and any integration capabilities with other tools or platforms.
+
+- Feature 3: Outline a third feature, detailing its use case and any user-driven components or customization options.
+
 - Add more features as needed...
 
 ## Usage & Information
 
 ### Quick Start
 
-[Step-by-step instructions on how to quickly get started using the application.]
+Provide a simple, step-by-step guide on how to set up and start using the application immediately after installation.
 
-> [!IMPORTANT]\
-> Important
+> [!IMPORTANT]
+> Highlight critical information about the application setup or initial configuration that users must be aware of.
 
-> [!WARNING]\
-> Warning
+> [!WARNING]
+> Mention any common issues or warnings that users might encounter during the installation or while using the app.
 
-> [!NOTE]\
-> Note
-
+> [!NOTE]
+> Include additional notes or tips that can help users get more out of the application.
 
 ### Available Parameters
 
@@ -35,26 +38,21 @@ Example 1
 ```shell
 example.exe -help
 ```
-*This return a help.*
+*Describes what happens when the help command is executed.*
 
 Example 2
 ```shell
 example.exe -done
 ```
-*This make it done.*
-
+*Explains the outcome when the done command is used.*
 
 ## Direct Download
 
-[Link to download the application or where to find the downloadable files.]
-
+Provide a direct link to where users can download the application, ensuring the source is reliable and the process is straightforward.
 
 ---
 <p align="center"><a href="https://github.com/SegoCode/AutoWall/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SegoCode/AutoWall" />
 </a></p>
 
-<p align="center"><i>This project is under a non-commercial license please check the LICENSE file for more information</i></p>
-
-
-
+<p align="center"><i>This project is under a non-commercial license please check the <a href="path/to/LICENSE">LICENSE</a> file for more information</i></p>
