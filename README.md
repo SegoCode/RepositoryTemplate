@@ -57,4 +57,4 @@ example.exe -done
 
 
 
-*This project is licensed under a [Name of the License](URL-to-license) with non-commercial, attribution requirements. For more details, please check the LICENSE file or contact me at [your-email@example.com](mailto:your-email@example.com).*
+*This project is under a non-commercial license please check the LICENSE file for more information*
