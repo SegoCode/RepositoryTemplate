@@ -5,7 +5,7 @@
 
 ## About
 
-This section should provide a concise introduction to the application, explaining its primary function and the problem it addresses. Mention the target audience and any unique selling points that differentiate it from similar apps.
+This section should provide a concise introduction to the application, explaining its primary function and the problem it addresses. 
 
 ## Features
 
