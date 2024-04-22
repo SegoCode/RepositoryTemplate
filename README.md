@@ -39,6 +39,13 @@
 
 [Link to download the application or where to find the downloadable files.]
 
-## License
+
+---
+<p align="center">
+<a href="https://github.com/SegoCode/AutoWall/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SegoCode/AutoWall" />
+</a>
+
+
 
 This project is licensed under a [Name of the License](URL-to-license) with non-commercial, attribution requirements. For more details, please check the LICENSE file or contact me at [your-email@example.com](mailto:your-email@example.com).
