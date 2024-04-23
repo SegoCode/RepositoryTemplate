@@ -30,14 +30,20 @@ This section should provide a concise introduction to the application, explainin
 
 Provide a simple, step-by-step guide on how to set up and start using the application.
 
-> [!IMPORTANT]
-> Highlight critical information about the application setup or initial configuration that users must be aware of.
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
-> [!WARNING]
-> Mention any common issues or warnings that users might encounter during the installation or while using the app.
+> [!TIP]
+> Optional information to help a user be more successful.
 
-> [!NOTE]
-> Include additional notes or tips that can help users get more out of the application.
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
 
 ### Available Parameters
 
