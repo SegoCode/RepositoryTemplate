@@ -4,11 +4,10 @@
 ![Demo Image](path/to/demo-image.png)
 
 <p align="center">
-  <a href="#About">Summary</a> •
-  <a href="#Features">Getting started</a> •
-  <a href="#Usage & Information">Contributing</a> •
-  <a href="#Direct-Download">Support</a> •
-  <a href="#ideas">Ideas</a>
+  <a href="#About">About</a> •
+  <a href="#Features">Features</a> •
+  <a href="#Usage-&-Information">Usage & Information</a> •
+  <a href="#Direct-Download">Download</a> •
 </p>
 
 ## About
