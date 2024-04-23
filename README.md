@@ -7,7 +7,7 @@
   <a href="#About">Summary</a> •
   <a href="#Features">Getting started</a> •
   <a href="#Usage & Information">Contributing</a> •
-  <a href="#Direct Download">Support</a> •
+  <a href="#Direct-Download">Support</a> •
   <a href="#ideas">Ideas</a>
 </p>
 
