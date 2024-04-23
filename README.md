@@ -55,7 +55,7 @@ example.exe -done
 
 ## Download
 
-Provide a direct link to where users can download the application, ensuring the source is reliable and the process is straightforward.
+Provide a direct link to where users can download the application
 
 ---
 <p align="center"><a href="https://github.com/SegoCode/RepositoryTemplate/graphs/contributors">
