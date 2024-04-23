@@ -6,8 +6,8 @@
 <p align="center">
   <a href="#About">About</a> •
   <a href="#Features">Features</a> •
-  <a href="#Usage-&-Information">Usage & Information</a> •
-  <a href="#Direct-Download">Download</a> •
+  <a href="#Usage-%26-Information">Usage & Information</a> •
+  <a href="#Download">Download</a> •
 </p>
 
 ## About
@@ -53,7 +53,7 @@ example.exe -done
 ```
 *Explains the outcome when the done command is used.*
 
-## Direct Download
+## Download
 
 Provide a direct link to where users can download the application, ensuring the source is reliable and the process is straightforward.
 
