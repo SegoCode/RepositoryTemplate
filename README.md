@@ -7,7 +7,7 @@
   <a href="#about">About</a> •
   <a href="#features">Features</a> •
   <a href="#usage--information">Usage & Information</a> •
-  <a href="#download">Download</a> •
+  <a href="#download">Download</a> 
 </p>
 
 ## About
