@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#features">Features</a> •
-  <a href="#usage--information">Quick start & Information</a> •
+  <a href="#usage--information">Quick Start & Information</a> •
   <a href="#download">Download</a> 
 </p>
 
@@ -24,9 +24,7 @@ This section should provide a concise introduction to the application, explainin
 
 - Add more features as needed...
 
-## Quick start & Information
-
-### Quick Start
+## Quick Start & Information
 
 Provide a simple, step-by-step guide on how to set up and start using the application.
 
