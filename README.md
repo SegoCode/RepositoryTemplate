@@ -1,7 +1,7 @@
 
 # App Name
 
-![Demo Image](path/to/demo-image.png)
+<h3 align="center"><img src="assets/demo.png"></h3>
 
 <p align="center">
   <a href="#about">About</a> •
