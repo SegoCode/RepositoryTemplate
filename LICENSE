@@ -24,8 +24,8 @@ Section 1 - Definitions
 Section 2 - License Conditions
 
 2.1 Distribution and usage in source or binary forms are permitted solely for
-	NonCommercial purposes, for both NonAdapted Material and Adapted Material
-	excluding the cases of 2.4 section.
+	NonCommercial purposes for both NonAdapted Material and Adapted Material
+	excluding NonAdapted Material cases in 2.4 section.
 	
 2.2 Redistributions for any NonAdapted Material or Adapted Material, either 
         in source code or binary form, must include the original copyright notice, 
@@ -36,12 +36,10 @@ Section 2 - License Conditions
 
 2.3 For any Adapted Material, whether in source code or binary form, and for any 
 	instance of the licensed material utilized in applications accessible over
-	the internet that run on a server, the source code must be made accessible.
-	This includes ensuring that for NonAdapted Material a clearly accessible 
-	link to the original work is provided. Accessibility for both adapted and 
-	NonAdapted Material can be through a public repository, a downloadable archive,
-	or an equivalent method, ensuring that users have the capability to access, 
-	review, and download the code.
+	the internet that run on a server, the source code must be made accessible
+	through a public repository, a downloadable archive, or an equivalent 
+	method, ensuring that users have the capability to access, review, and 
+	download the code.
 
 2.4 For any NonAdapted Material that are offered on download sites, marketplaces, or
 	software distribution platforms, are permitted under the condition that any 
@@ -55,11 +53,14 @@ Section 2 - License Conditions
 	such platforms, and the distributor must comply with such request without delay.
 
 2.5 For any Adapted Material or NonAdapted Material must clearly credit the original work
-	and author, including a link to the NonAdapted Material repository, within any 
-	distributed documentation or materials. Distributing the licensed material alongside
-	unrelated or harmful software, such as adware, malware, or spyware, is prohibited. 
-	Additionally, implying endorsement or association with the original author or recognized
-	entities without permission is also prohibited.
+	and author, including a link to the NonAdapted Material origial repository, within any 
+	distributed documentation or materials. 
+
+2.6 Distributing the licensed material alongside unrelated or harmful software, such as adware, 
+	malware, or spyware, is prohibited.
+ 
+2.7 Implying endorsement or association with the original author or recognized entities without
+	permission is prohibited.
 
 Section 3 - Updates and Revisions
 
