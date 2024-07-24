@@ -1,7 +1,7 @@
 
 # App Name
 
-<h3 align="center"><img src="assets/demo.png"></h3>
+<h3 align="center"><img src="media/demo.png"></h3>
 
 <p align="center">
   <a href="#about">About</a> •
