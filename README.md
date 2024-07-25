@@ -1,5 +1,5 @@
 
-# App Name
+# {reponame}
 
 <h3 align="center"><img src="media/demo.png"></h3>
 
@@ -62,6 +62,6 @@ example.exe -done
 Provide a direct link to where users can download the application
 
 ---
-<p align="center"><a href="https://github.com/SegoCode/RepositoryTemplate/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SegoCode/RepositoryTemplate" />
+<p align="center"><a href="https://github.com/SegoCode/{reponame}/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SegoCode/{reponame}" />
 </a></p>
