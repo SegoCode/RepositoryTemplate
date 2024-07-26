@@ -46,10 +46,10 @@ body:
       options:
         - Windows 11
         - Windows 10
-        - Windows other
-        - Debian
-        - Arch
-        - Other
+        - Windows Other
+        - Linux Debian
+        - Linux Arch
+        - Linux Other
     validations:
       required: true
 
