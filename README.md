@@ -1,4 +1,3 @@
-
 # {reponame}
 
 <h3 align="center"><img src="media/demo.png"></h3>
