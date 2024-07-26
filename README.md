@@ -61,6 +61,6 @@ example.exe -done
 Provide a direct link to where users can download the application
 
 ---
-<p align="center"><a href="https://github.com/SegoCode/{reponame}/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SegoCode/{reponame}" />
+<p align="center"><a href="https://github.com/{username}/{reponame}/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo={username}/{reponame}" />
 </a></p>
