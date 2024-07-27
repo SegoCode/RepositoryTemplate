@@ -88,6 +88,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           latest_tag: ${{ env.latest_tag }}
         run: |
+          repository=${{ github.repository }}
           issue_title="The tag \`${{ env.latest_tag }}\` was created"
-          issue_body=$'The **${{ env.latest_tag }}** tag for the **main branch** has been created. Please consider creating a release of this tag, if a release isn\'t needed, you can close this issue.\n\n[Click here to create a release of **${{ env.latest_tag }}** tag](https://github.com/{username}/{reponame}/releases/new?tag=${{ env.latest_tag }})'
+          issue_body=$'The **${{ env.latest_tag }}** tag for the **main branch** has been created. Please consider creating a release of this tag, if a release isn\'t needed, you can close this issue.\n\n[Click here to create a release of **${{ env.latest_tag }}** tag](https://github.com/${repository}/releases/new?tag=${{ env.latest_tag }})'
           gh issue create --title "$issue_title" --body "$issue_body" --label "auto-tag"
