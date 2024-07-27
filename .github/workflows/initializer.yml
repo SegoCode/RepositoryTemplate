@@ -62,7 +62,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           BRANCH_NAME="${{ steps.vars.outputs.branch }}"
-          PR_URL=$(gh pr create --base main --head $BRANCH_NAME --title "Initialize repository" --body "This PR initializes the repository by replacing **{reponame}** with the actual repository name, **{username}** with the actual username and removing the initializer workflow.")
+          PR_URL=$(gh pr create --base main --head $BRANCH_NAME --title "Initialize repository" --body "This PR initializes the repository with the actual repository name, with the actual username and removing the initializer workflow.")
           
           # Extract PR number from URL
           PR_NUMBER=$(basename $PR_URL)
