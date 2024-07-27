@@ -5,7 +5,7 @@ on:
     types: [closed]
 
 jobs:
-  tag_version:
+  create_tag:
     if: github.event.pull_request.merged == true && contains(github.event.pull_request.labels.*.name, 'auto-tag')
     runs-on: ubuntu-latest
     steps:
