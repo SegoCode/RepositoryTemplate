@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to the project! This document outlines the guidelines and workflows we use for contributing to this repository. Following these guidelines helps maintain a clean and efficient collaborative environment.
+This document outlines the guidelines and workflows we use for contributing to this repository. Following these guidelines helps maintain a clean and efficient collaborative environment.
 
 ## Initialization
 
@@ -29,7 +29,7 @@ To initialize the repository:
    - Review the PR created by the initializer workflow.
    - Once satisfied, merge the PR into `main`.
 
-**Note**: This step is typically done once when setting up a new repository from a template.
+**Note**: This step is typically done once when setting up a new repository.
 
 ## Branching Strategy
 
