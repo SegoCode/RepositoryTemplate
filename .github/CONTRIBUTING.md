@@ -1,5 +1,3 @@
-# CONTRIBUTING.md
-
 ## Introduction
 
 Welcome to the project! This document outlines the guidelines and workflows we use for contributing to this repository. Following these guidelines helps maintain a clean and efficient collaborative environment.
