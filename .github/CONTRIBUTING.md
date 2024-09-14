@@ -172,11 +172,6 @@ Maintainers should:
 3. If a release is needed, use the provided link to create it.
 4. Close the issue once the release decision is made.
 
-### Status Checks
-
-- PRs cannot be merged until all status checks pass.
-- Ensure your code complies with project standards before requesting a review.
-
 ## Commit Messages and Labels
 
 ### Commit Messages
