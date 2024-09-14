@@ -1,8 +1,6 @@
-## Introduction
-
-This document outlines the guidelines and workflows we use for contributing to this repository. Following these guidelines helps maintain a clean and efficient collaborative environment.
-
 ## Initialization
+
+**Note**: This step is only forn setting up a new repository.
 
 Before starting to work with the repository, an initialization step is required to replace placeholders with actual repository information.
 
@@ -28,8 +26,6 @@ To initialize the repository:
 
    - Review the PR created by the initializer workflow.
    - Once satisfied, merge the PR into `main`.
-
-**Note**: This step is typically done once when setting up a new repository.
 
 ## Branching Strategy
 
